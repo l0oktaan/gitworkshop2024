@@ -1,3 +1,5 @@
+
+![The San Juan Mountains are beautiful!](https://www.keycloak.org/resources/images/logo.svg "San Juan Mountains")
 # Keycloak Concepts
 ## Authentication
 - Identifying & validating a user
